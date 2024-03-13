@@ -11,6 +11,6 @@ return {
   { import = "astrocommunity.completion.cmp-cmdline"},
 
   { import = "astrocommunity.pack.cpp"},
-  {import = "astrocommunity.pack.cmake"},
+  { import = "astrocommunity.pack.cmake"},
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
